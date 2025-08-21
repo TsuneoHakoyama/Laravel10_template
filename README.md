@@ -1,11 +1,11 @@
-# Laravel10-12用テンプレート
+# Laravel10テンプレート
 ## 概要
-###### Larave10以降を利用する開発のテンプレート。
+###### Larave10を利用する開発のテンプレート。
 ###### PHP, MySQL, Nginx, phpMyAdmin, mailpitを含む。
-###### breezeを使えるようにするためPHPコンテナ内でNode.jsがインストールされる
+###### breezeを使えるようにするためPHPコンテナ内でNode.js 22以降がインストールされる
 
 ## 構成
-###### php:8.3.24-fpm (Node.js 22.x, npm 22.x)
+###### php:8.3.24-fpm
 ###### Nginx:1.28.0
 ###### mysql:8.4.6
 ###### phpmyadmin:5.2.2
